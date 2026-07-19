@@ -1,26 +1,34 @@
 [
   {
-    "id": "project-example-one",
-    "title": "Example Research Project",
-    "summary": "A concise description of the research question, method, and intended impact of this project.",
+    "id": "hamiltonian-shadow-tomography",
+    "title": "Hamiltonian-Driven Shadow Tomography",
+    "summary": "Realizing local randomized measurements from stochastic global drives, without gate-based random circuits, for analog quantum simulators.",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Example Research Project placeholder image",
-    "url": "pages/projects/project-example-one.html"
+    "image_alt": "Illustration of Hamiltonian-driven shadow tomography",
+    "url": "pages/projects/hamiltonian-shadow-tomography.html"
   },
   {
-    "id": "project-example-two",
-    "title": "Example Collaborative Project",
-    "summary": "A second example showing how to describe collaborative or interdisciplinary research.",
+    "id": "calibrating-cold-atom-simulators",
+    "title": "Calibrating Cold-Atom Lattice Simulators",
+    "summary": "Estimating site-dependent applied potentials from quantum-gas-microscope measurements following quantum quenches, using Hamiltonian-learning tools.",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Example Collaborative Project placeholder image",
-    "url": "pages/projects/project-example-two.html"
+    "image_alt": "Illustration of cold-atom lattice calibration",
+    "url": "pages/projects/calibrating-cold-atom-simulators.html"
   },
   {
-    "id": "project-external",
-    "title": "Project with an External Website",
-    "summary": "Project cards may also link directly to an external project website or software demonstration.",
+    "id": "dual-unitary-circuits",
+    "title": "Dual Unitary Quantum Circuits",
+    "summary": "Hierarchical generalizations of dual unitary circuits and stabilizer-based solvability conditions, developed during a visiting stay at the University of Cambridge.",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "External project placeholder image",
-    "url": "https://example.com"
+    "image_alt": "Illustration of dual unitary quantum circuits",
+    "url": "pages/projects/dual-unitary-circuits.html"
+  },
+  {
+    "id": "gauge-theory-noise-protection",
+    "title": "Stabilizing Quantum Simulators of Gauge Theories",
+    "summary": "Linear gauge protection against 1/f-beta noise sources in quantum simulators of lattice gauge theories, from my master's thesis work.",
+    "image": "assets/images/project-placeholder.svg",
+    "image_alt": "Illustration of gauge theory noise protection",
+    "url": "pages/projects/gauge-theory-noise-protection.html"
   }
 ]

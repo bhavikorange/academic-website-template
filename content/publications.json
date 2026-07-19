@@ -1,46 +1,42 @@
 [
   {
-    "id": "example-journal-article",
-    "title": "An Example Journal Article Title",
-    "content": "Jane Doe, Jamie Taylor, and Sam Lee",
-    "link": "https://doi.org/10.0000/example.2026.001",
-    "publisher": "Journal of Example Research, 2026",
-    "image": "assets/images/publications/placeholder-cover.svg",
+    "id": "kumar-malz-2026-cold-atom-potentials",
+    "title": "Estimating applied potentials in cold-atom lattice simulators",
+    "content": "Bhavik Kumar, Daniel Malz",
+    "link": "https://doi.org/10.1103/296w-f7z6",
+    "publisher": "Phys. Rev. A 113, 033312 (2026)",
+    "image": "assets/images/publications/publication-placeholder.svg",
     "tags": ["key_publications", "journal"],
     "buttons": [
-      { "id": 1, "title": "Publisher", "link": "https://example.com" },
-      { "id": 2, "title": "Code", "link": "https://github.com/your-username/example-project" }
+      { "id": 1, "title": "Publisher", "link": "https://link.aps.org/doi/10.1103/296w-f7z6" }
     ],
-    "created_at": 1767225600,
-    "updated_at": 1767225600
+    "created_at": 1772323200,
+    "updated_at": 1772323200
   },
   {
-    "id": "example-conference-paper",
-    "title": "An Example Conference Paper Title",
-    "content": "Jamie Taylor, Jane Doe, and Robin Smith",
-    "link": "https://example.com",
-    "publisher": "Proceedings of the Example Conference, 2025",
-    "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["key_publications", "conference"],
-    "buttons": [
-      { "id": 1, "title": "Paper", "link": "https://example.com" },
-      { "id": 2, "title": "Data", "link": "https://example.com" }
-    ],
-    "created_at": 1735689600,
-    "updated_at": 1735689600
+    "id": "kumar-et-al-shadow-tomography-in-prep",
+    "title": "Stochastic Hamiltonian-Driven Local Shadow Tomography",
+    "content": "Bhavik Kumar, Daniel Stilck Fran\u00e7a, Emilio Onorati, Albert Werner, Daniel Malz",
+    "link": "",
+    "publisher": "In preparation",
+    "image": "assets/images/publications/publication-placeholder.svg",
+    "tags": ["key_publications", "in_preparation"],
+    "buttons": [],
+    "created_at": 1782864000,
+    "updated_at": 1782864000
   },
   {
-    "id": "example-preprint",
-    "title": "An Example Preprint Title",
-    "content": "Jane Doe and Casey Chen",
-    "link": "https://arxiv.org/",
-    "publisher": "arXiv preprint, 2024",
-    "image": "assets/images/publications/placeholder-cover.svg",
+    "id": "kumar-hauke-halimeh-2022-gauge-noise",
+    "title": "Suppression of 1/f noise in quantum simulators of gauge theories",
+    "content": "Bhavik Kumar, Philipp Hauke, Jad C. Halimeh",
+    "link": "https://arxiv.org/abs/2210.06489",
+    "publisher": "arXiv:2210.06489",
+    "image": "assets/images/publications/publication-placeholder.svg",
     "tags": ["preprint"],
     "buttons": [
-      { "id": 1, "title": "Preprint", "link": "https://arxiv.org/" }
+      { "id": 1, "title": "arXiv", "link": "https://arxiv.org/abs/2210.06489" }
     ],
-    "created_at": 1704067200,
-    "updated_at": 1704067200
+    "created_at": 1665619200,
+    "updated_at": 1665619200
   }
 ]

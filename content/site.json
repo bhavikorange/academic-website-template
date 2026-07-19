@@ -1,44 +1,80 @@
 {
   "name": "Bhavik Kumar",
-  "short_name": "Jane",
-  "publication_name": "Jane Doe",
-  "citation_name": "J. Doe",
-  "email_display": "jane [dot] doe [at] example [dot] edu",
-  "site_title": "Jane Doe | Academic Website",
-  "description": "Academic website of Jane Doe.",
-  "copyright_year": 2026,
-  "footer_text": "Last updated:",
+  "short_name": "Bhavik",
+  "publication_name": "Bhavik Kumar",
+  "citation_name": "B. Kumar",
+  "site_title": "Bhavik Kumar",
+  "copyright_year": "2026",
   "attribution": {
-    "prefix": "Adapted from",
-    "source_label": "mraoaakash/academic-website-template",
-    "source_url": "https://github.com/mraoaakash/academic-website-template"
-  },
-  "navigation": [
-    { "label": "Home", "path": "index.html" },
-    { "label": "Projects", "path": "pages/projects.html" },
-    { "label": "Publications", "path": "pages/publications.html" },
-    { "label": "News", "path": "pages/news.html" },
-    { "label": "CV", "path": "pages/cv.html" }
-  ],
-  "pages": {
-    "index.html": { "title": "", "description": "Academic website of Jane Doe." },
-    "projects.html": { "title": "Projects", "description": "Research projects by Jane Doe." },
-    "publications.html": { "title": "Publications", "description": "Publications by Jane Doe." },
-    "news.html": { "title": "News", "description": "Latest news and updates from Jane Doe." },
-    "cv.html": { "title": "CV", "description": "Curriculum Vitae of Jane Doe." }
+    "text": "Adapted from mraoaakash/academic-website-template",
+    "url": "https://github.com/mraoaakash/academic-website-template"
   },
   "profile_image": "assets/images/profile-placeholder.svg",
-  "profile_image_alt": "Jane Doe profile photo placeholder",
-  "bio_html": "Jane is a doctoral researcher in Example Department at Example University. Her research focuses on an interesting research area and its applications to real-world problems. Previously, Jane completed a master's degree in Example Subject and a bachelor's degree in Example Subject. Replace this paragraph with your own biography in <code>content/site.json</code>.",
+  "bio_html": "I'm a PhD fellow in Theoretical and Mathematical Physics at <strong>QMATH, University of Copenhagen</strong>, supervised by Prof. Daniel Malz. My research sits at the intersection of quantum information theory, quantum simulation, and many-body physics &mdash; I develop scalable protocols for learning, characterizing, and calibrating quantum many-body systems using experimentally accessible measurements. I completed an integrated BS&ndash;MS in physics at IISER Mohali, and was a visiting PhD student at St John's College and the Cavendish Laboratory, University of Cambridge in 2025.",
   "contact": [
-    "jane [dot] doe [at] example [dot] edu",
-    "Example Department, Example University, City, Country"
+    "bhku@math.ku.dk",
+    "QMATH, Department of Mathematical Sciences",
+    "University of Copenhagen, Denmark"
   ],
   "social_links": [
-    { "label": "University profile", "url": "https://example.edu/your-profile", "image": "assets/images/institution-placeholder.svg", "image_class": "institution-logo", "image_alt": "Institution logo placeholder" },
-    { "label": "Google Scholar", "url": "https://scholar.google.com/", "icon": "fa-brands fa-google-scholar" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/", "icon": "fa-brands fa-linkedin" },
-    { "label": "GitHub", "url": "https://github.com/your-username", "icon": "fa-brands fa-square-github" },
-    { "label": "ORCID", "url": "https://orcid.org/", "icon": "fa-brands fa-orcid" }
-  ]
+    {
+      "id": "email",
+      "label": "Email",
+      "icon": "fa-solid fa-envelope",
+      "url": "mailto:bhku@math.ku.dk"
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "icon": "fa-brands fa-linkedin",
+      "url": ""
+    },
+    {
+      "id": "google_scholar",
+      "label": "Google Scholar",
+      "icon": "fa-solid fa-graduation-cap",
+      "url": ""
+    },
+    {
+      "id": "github",
+      "label": "GitHub",
+      "icon": "fa-brands fa-github",
+      "url": ""
+    },
+    {
+      "id": "orcid",
+      "label": "ORCID",
+      "icon": "fa-brands fa-orcid",
+      "url": ""
+    }
+  ],
+  "navigation": [
+    { "label": "Home", "url": "index.html" },
+    { "label": "Publications", "url": "pages/publications.html" },
+    { "label": "Research", "url": "pages/projects.html" },
+    { "label": "CV", "url": "pages/cv.html" },
+    { "label": "News", "url": "pages/news.html" }
+  ],
+  "pages": {
+    "home": {
+      "title": "Bhavik Kumar",
+      "description": "PhD fellow at QMATH, University of Copenhagen, working on quantum computation, quantum simulation, and many-body physics."
+    },
+    "publications": {
+      "title": "Publications | Bhavik Kumar",
+      "description": "Publications and preprints by Bhavik Kumar on quantum simulation, shadow tomography, and quantum many-body physics."
+    },
+    "projects": {
+      "title": "Research | Bhavik Kumar",
+      "description": "Research directions: Hamiltonian-driven shadow tomography, calibration of analog quantum simulators, and dual unitary circuits."
+    },
+    "cv": {
+      "title": "CV | Bhavik Kumar",
+      "description": "Academic CV of Bhavik Kumar: education, research experience, awards, and teaching."
+    },
+    "news": {
+      "title": "News | Bhavik Kumar",
+      "description": "Recent news and updates from Bhavik Kumar."
+    }
+  }
 }

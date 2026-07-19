@@ -1,6 +1,5 @@
 [
-  { "name": "key_publications", "title": "Key Publications" },
-  { "name": "journal", "title": "Journal Articles" },
-  { "name": "conference", "title": "Conference Papers" },
-  { "name": "preprint", "title": "Preprints" }
+  { "id": "journal", "label": "Journal Articles" },
+  { "id": "preprint", "label": "Preprints" },
+  { "id": "in_preparation", "label": "In Preparation" }
 ]
