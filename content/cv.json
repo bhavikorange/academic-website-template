@@ -1,32 +1,140 @@
 [
   {
-    "title": "Research Experience",
+    "title": "Education",
     "entries": [
       {
-        "title": "Doctoral Researcher",
-        "organization": "Example University",
-        "dates": "Sep 2024 - Present",
+        "title": "PhD Fellow, Theoretical and Mathematical Physics (QMATH)",
+        "organization": "University of Copenhagen",
+        "dates": "September 2023 \u2013 Present",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag",
+        "logo_alt": "University of Copenhagen logo",
+        "flag": "DK",
+        "flag_alt": "Denmark flag",
         "bullets": [
-          "Researching an example topic in the Example Research Group.",
-          "Developing methods for an example application and collaborating with domain experts."
+          "Supervision: Prof. Daniel Malz"
         ]
       },
       {
-        "title": "Research Assistant",
-        "organization": "Example Research Institute",
-        "dates": "Jun 2023 - Aug 2024",
+        "title": "Integrated BS\u2013MS Physics (Dual Degree)",
+        "organization": "Indian Institute of Science Education and Research (IISER), Mohali",
+        "dates": "August 2018 \u2013 June 2023",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example Research Institute logo placeholder",
-        "flag": "US",
-        "flag_alt": "Country flag",
+        "logo_alt": "IISER Mohali logo",
+        "flag": "IN",
+        "flag_alt": "India flag",
+        "bullets": []
+      }
+    ]
+  },
+  {
+    "title": "Research Experience",
+    "entries": [
+      {
+        "title": "PhD Fellow, Theoretical and Mathematical Physics",
+        "organization": "University of Copenhagen",
+        "dates": "September 2023 \u2013 Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Copenhagen logo",
+        "flag": "DK",
+        "flag_alt": "Denmark flag",
         "bullets": [
-          "Supported an interdisciplinary research project.",
-          "Analysed data and contributed to a peer-reviewed manuscript."
+          "Topic: Learning from Dynamics in Analog Quantum Simulators.",
+          "Developed a Hamiltonian-driven shadow tomography protocol for characterizing analog quantum simulators.",
+          "Developed calibration methods for estimating applied potentials in cold-atom lattice simulators from quench dynamics using tools from Hamiltonian learning."
         ]
+      },
+      {
+        "title": "Visiting PhD Student, TCM Group",
+        "organization": "St John's College and Cavendish Laboratory, University of Cambridge",
+        "dates": "May 2025 \u2013 July 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Cambridge logo",
+        "flag": "GB",
+        "flag_alt": "United Kingdom flag",
+        "bullets": [
+          "Topic: Quantum dynamics in dual unitary circuits.",
+          "Supervisors: Dr. Max McGinley (TCM Group, Dept. of Physics) and Prof. Bruno Bertini (University of Birmingham).",
+          "Investigated hierarchical generalizations of dual unitary quantum circuits, formulating stabilizer-based conditions using Clifford algebra.",
+          "Worked on circuit-level diagnostics of solvability via spatio-temporal correlation functions and operator space entanglement for non-Clifford circuits."
+        ]
+      },
+      {
+        "title": "External Master's Thesis",
+        "organization": "Ludwig Maximilian University of Munich",
+        "dates": "January 2022 \u2013 April 2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "LMU Munich logo",
+        "flag": "DE",
+        "flag_alt": "Germany flag",
+        "bullets": [
+          "Title: Stabilizing Quantum Simulators of Gauge Theories against 1/f Noise. Grade: A (highest possible grade).",
+          "External supervisors: Prof. Jad C. Halimeh (MCQST, LMU Munich) and Prof. Philipp Hauke (University of Trento).",
+          "Local supervisor: Prof. Manabendra Nath Bera (IISER Mohali).",
+          "Illustrated the efficacy of linear gauge protection in stabilizing gauge invariance against 1/f-beta noise sources in quantum simulators.",
+          "Results showed immediate applicability to modern analog quantum simulators and digital NISQ devices."
+        ]
+      },
+      {
+        "title": "Summer Research Internship",
+        "organization": "Theoretical Sciences, PPISR, Bangalore",
+        "dates": "May 2021 \u2013 July 2021",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "PPISR logo",
+        "flag": "IN",
+        "flag_alt": "India flag",
+        "bullets": [
+          "Title: Non-Markovian dynamics in open quantum systems.",
+          "Supervision: Prof. R. Srikanth (PPISR), Dr. Vinayak Jagdish (University of Krakow, Poland).",
+          "Captured non-Markovianity in a quantum channel from mixing Pauli semigroups at the level of intermediate dynamical maps, via quantum process tomography on IBM's quantum simulators."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Industry Experience",
+    "entries": [
+      {
+        "title": "Research Intern",
+        "organization": "TAQBIT Labs Pvt. Ltd., Bangalore",
+        "dates": "May 2020 \u2013 December 2021",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "TAQBIT Labs logo",
+        "flag": "IN",
+        "flag_alt": "India flag",
+        "bullets": [
+          "Title: Quantum random number generation and quantum key distribution.",
+          "Supervision: Animesh Aaryan (CEO, TAQBIT Labs).",
+          "Simulated spontaneous parametric down-conversion in photons to generate quantum entanglement.",
+          "Worked on experimental protocols to extract cryptographically secure random numbers using a spatially entangled source quantum random number generator.",
+          "Characterized electro-optic modulators to realize differential phase shift quantum key distribution."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Awards and Scholarships",
+    "entries": [
+      {
+        "title": "Travel Grant",
+        "organization": "Department of Mathematical Sciences, University of Copenhagen",
+        "dates": "Summer 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Copenhagen logo",
+        "flag": "DK",
+        "flag_alt": "Denmark flag",
+        "bullets": [
+          "For a summer research stay at the Cavendish Laboratory, University of Cambridge (\u20ac4,500)."
+        ]
+      },
+      {
+        "title": "Undergraduate and Master's Scholarship",
+        "organization": "Indian Air Force Benevolent Association (IAFBA)",
+        "dates": "2018 \u2013 2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "IAFBA logo",
+        "flag": "IN",
+        "flag_alt": "India flag",
+        "bullets": []
       }
     ]
   },
@@ -34,54 +142,45 @@
     "title": "Teaching Experience",
     "entries": [
       {
-        "title": "Teaching Assistant",
-        "organization": "Example University",
-        "dates": "Jan 2025 - May 2025",
+        "title": "Teaching Assistant, M.Sc. Introduction to Quantum Computing",
+        "organization": "Department of Mathematical Sciences, University of Copenhagen",
+        "dates": "Fall 2023 \u2013 2025",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag",
+        "logo_alt": "University of Copenhagen logo",
+        "flag": "DK",
+        "flag_alt": "Denmark flag",
+        "bullets": []
+      }
+    ]
+  },
+  {
+    "title": "Service",
+    "entries": [
+      {
+        "title": "Sub-Reviewer",
+        "organization": "QCTiP 2026",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Conference logo",
+        "bullets": []
+      }
+    ]
+  },
+  {
+    "title": "Skills",
+    "entries": [
+      {
+        "title": "Software and Programming",
+        "organization": "",
+        "dates": "",
         "bullets": [
-          "Assisted with Example Course: Introduction to the Subject.",
-          "Led tutorials and provided feedback on coursework."
+          "Python (NumPy, SciPy, Matplotlib)",
+          "Quantum simulation and information libraries: QuTiP, QuSpin, Qiskit, Stim",
+          "Randomized measurements library: RandomMeas.jl",
+          "Tensor-network frameworks: ITensor, Quimb",
+          "Mathematica, MATLAB, PennyLane (elementary proficiency)",
+          "LaTeX, Git/GitHub, Visual Studio Code"
         ]
-      }
-    ]
-  },
-  {
-    "title": "Education",
-    "entries": [
-      {
-        "title": "Doctor of Philosophy (PhD), Example Subject",
-        "organization": "Example University",
-        "dates": "2024 - Present",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag"
-      },
-      {
-        "title": "Master of Science, Example Subject",
-        "organization": "Example University",
-        "dates": "2022 - 2023",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "US",
-        "flag_alt": "Country flag"
-      }
-    ]
-  },
-  {
-    "title": "Honors and Awards",
-    "entries": [
-      {
-        "title": "Example Academic Award",
-        "organization": "Example Professional Society",
-        "dates": "May 2025",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Awarding organization logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag"
       }
     ]
   }
